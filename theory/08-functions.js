@@ -1,5 +1,5 @@
-function addFunc(num1,num2){
-    return num1 + num2;
+function addFunc(number1,number2){
+    return number1 + number2;
 }
 
 result = addFunc(12, 25)

@@ -1,28 +1,12 @@
-var obzect = {
+var object = {
   name: "jkjc",
   description: "hello",
   cost: "500"
 }
-console.log(obzect);
-console.log(obzect.name);
-console.log(obzect.description);
-console.log(obzect.cost);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+console.log(object);
+console.log(object.name);
+console.log(object.description);
+console.log(object.cost);
 
 /*
 //var str=new String();

@@ -1,55 +1,51 @@
-var x = 10;
-x += 5;
-console.log(x);
+var plusx = 10;
+plusx += 5;
+console.log(plusx);
 
-var y = 10;
-y -= 5;
-console.log(y);
+var minusy = 10;
+minusy -= 5;
+console.log(minusy);
 
-var z= 10;
-z *= 5;
-console.log(z);
+var multiplyz= 10;
+multiplyz *= 5;
+console.log(multiplyz);
 
-var a= 10;
-a /= 5;
-console.log(a);
+var dividea= 10;
+dividea /= 5;
+console.log(dividea);
 
-var b= 10;
-b *= 5;
-console.log(b);
+var multib= 10;
+multib *= 5;
+console.log(multib);
 
-var c= 10;
-c %= 5;
-console.log(c);
+var moduloc= 10;
+modiuloc %= 5;
+console.log(moduloc);
 
-var d= 10;
-d *= 5;
-console.log(d);
+var shifte= 10;
+shifte <<= 5;
+console.log(shifte);
 
-var e= 10;
-e <<= 5;
-console.log(e);
+var shiftf= 10;
+shiftf >>= 5;
+console.log(shiftf);
 
-var f= 10;
-f >>= 5;
-console.log(f);
+var shiftg= 10;
+shiftg >>>= 5;
+console.log(shiftg);
 
-var g= 10;
-g >>>= 5;
-console.log(g);
+var andh= 10;
+andh &= 5;
+console.log(andh);
 
-var h= 10;
-h &= 5;
-console.log(h);
+var mi= 10;
+mi ^= 5;
+console.log(mi);
 
-var i= 10;
-i ^= 5;
-console.log(i);
+var bridgej= 10;
+bridgej |= 5;
+console.log(bridgej);
 
-var j= 10;
-j |= 5;
-console.log(j);
-
-var k= 10;
-k **= 5;
-console.log(k);
+var powerk= 10;
+powerk **= 5;
+console.log(powerk);
