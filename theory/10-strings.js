@@ -1,7 +1,9 @@
 var answer1 = "It's alright";
 console.log(answer1);
+
 var answer2 = "He is called 'Johnny'";
 console.log(answer2);
+
 var answer3 = 'He is called "Johnny"';
 console.log(answer3);
 

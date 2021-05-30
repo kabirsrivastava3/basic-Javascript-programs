@@ -1,8 +1,8 @@
-var inputNumber=21
+var inputNumber = 21
 
-if(inputNumber%2 == 0) {
-    console.log({message: "The number is Even"});
+if (inputNumber % 2 == 0) {
+    console.log({ message: "The number is Even" });
 }
 else {
-    console.log({message: "The number is Odd"});
+    console.log({ message: "The number is Odd" });
 }

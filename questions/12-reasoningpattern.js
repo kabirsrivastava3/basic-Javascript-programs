@@ -1,9 +1,9 @@
 var limit = 9;
 
 for (var indexrow = 0; indexrow<= n; indexrow++) {
-    for (var columnrow = 0; columnrow <= i; columnrow++) {
+    for (var indexcolumn = 0; indexcolumn <= i; indexcolumn++) {
 
-        process.stdout.write((indexrow * columnrow).toString());
+        process.stdout.write((indexrow * indexcolumn).toString());
     }
     console.log("");
 }

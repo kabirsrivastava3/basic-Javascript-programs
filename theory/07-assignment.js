@@ -1,51 +1,47 @@
-var plusx = 10;
-plusx += 5;
-console.log(plusx);
+var plus = 10;
+plus += 5;
+console.log(plus);
 
-var minusy = 10;
-minusy -= 5;
-console.log(minusy);
+var minus = 10;
+minus -= 5;
+console.log(minus);
 
-var multiplyz = 10;
-multiplyz *= 5;
-console.log(multiplyz);
+var multiply = 10;
+multiply *= 5;
+console.log(multiply);
 
-var dividea = 10;
-dividea /= 5;
-console.log(dividea);
+var divide = 10;
+divide /= 5;
+console.log(divide);
 
-var multib = 10;
-multib *= 5;
-console.log(multib);
+var modulo = 10;
+modulo %= 5;
+console.log(modulo);
 
-var moduloc = 10;
-modiuloc %= 5;
-console.log(moduloc);
+var shiftright = 10;
+shiftright <<= 5;
+console.log(shiftright);
 
-var shifte = 10;
-shifte <<= 5;
-console.log(shifte);
+var shiftleft = 10;
+shiftleft >>= 5;
+console.log(shiftleft);
 
-var shiftf = 10;
-shiftf >>= 5;
-console.log(shiftf);
+var shiftbitleft = 10;
+shiftbitleft >>>= 5;
+console.log(shiftbitleft);
 
-var shiftg = 10;
-shiftg >>>= 5;
-console.log(shiftg);
+var and = 10;
+and &= 5;
+console.log(and);
 
-var andh = 10;
-andh &= 5;
-console.log(andh);
+var hat = 10;
+hat ^= 5;
+console.log(hat);
 
-var mi = 10;
-mi ^= 5;
-console.log(mi);
+var pipe = 10;
+pipe |= 5;
+console.log(pipe);
 
-var bridgej = 10;
-bridgej |= 5;
-console.log(bridgej);
-
-var powerk = 10;
-powerk **= 5;
-console.log(powerk);
+var power = 10;
+power **= 5;
+console.log(power);

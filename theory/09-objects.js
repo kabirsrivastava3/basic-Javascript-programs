@@ -10,7 +10,7 @@ console.log(object.cost);
 
 /*
 //var str=new String();
-//var num= new Number();    
+//var num= new Number();
 //var bool=new Boolean();
 
 Do not declare them as an object
