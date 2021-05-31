@@ -2,7 +2,7 @@
 var limit = 3;
 
 for (var indexrow = 1; indexrow <= limit; indexrow++) {
-    for (var indexcolumn = 1; indexcolumn <= i; indexcolumn++) {
+    for (var indexcolumn = 1; indexcolumn <= indexrow; indexcolumn++) {
 
         process.stdout.write("*");
     }
@@ -11,7 +11,7 @@ for (var indexrow = 1; indexrow <= limit; indexrow++) {
 
 var indexrow;
 for (indexrow = 1; indexrow <= limit; indexrow++) {
-    for (var indexcolumn = 1; indexcolumn <= i; indexcolumn++) {
+    for (var indexcolumn = 1; indexcolumn <= indexrow; indexcolumn++) {
 
         process.stdout.write(indexrow.toString());
     }
@@ -20,7 +20,7 @@ for (indexrow = 1; indexrow <= limit; indexrow++) {
 
 var indexrow;
 for (indexrow = 1; indexrow <= limit; indexrow++) {
-    for (var indexcolumn = 1; indexcolumn <= i; indexcolumn++) {
+    for (var indexcolumn = 1; indexcolumn <= indexrow; indexcolumn++) {
 
         process.stdout.write(indexcolumn.toString());
     }

@@ -32,6 +32,10 @@ for (let index = 0; index < text1.length - 1; index++) {
 }
 
 console.log(text1.substring(text1.length - last3));
+console.log(uppercase);
+
+console.log(specialchar);
+console.log()
 var text3 = text1.concat("", text2);
 console.log(text3);
 console.log(reverseText1);
