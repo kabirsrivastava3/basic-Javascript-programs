@@ -24,4 +24,3 @@ while (start <= end) {
         end = mid - 1;
     }
 }
-
